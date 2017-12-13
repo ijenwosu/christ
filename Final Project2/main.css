@@ -1,0 +1,22 @@
+footer {
+	clear: both;
+}
+
+#side_news{
+	float:right;
+	width: 220px; 
+	margin: 20px 0px; 
+	padding: 30px; 
+	background: #66cccc;
+}
+nav{
+	
+	display:block;
+	width:200px;
+	margin:50px auto;
+	padding:15px;
+	border:1px solid blue;
+	background:orange;
+	-webkit-border-radius:25px;
+	float:left;
+}
